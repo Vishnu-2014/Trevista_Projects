@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.trevista_project.app-mergeDebugResources-20:/values-lt/values-lt.xml",
+            "outputFile": "com.trevista_project.app-mergeDebugResources-3:/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\reddy\\.gradle\\caches\\transforms-3\\b5aafe16c84add24fc50a69bc28bd81a\\transformed\\appcompat-1.4.1\\res\\values-lt\\values-lt.xml",

@@ -7,7 +7,6 @@ import {
   Image,
   Pressable,
   TextInput,
-  KeyboardAvoidingView,
 } from 'react-native';
 import trevistaLogo from '../images/trevistaLogo.png';
 import Ionicons from 'react-native-vector-icons/Ionicons';
