@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\reddy
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\reddy\.gradle\caches\transforms-3\afe7dbe1aed070f9157f4b2defe3cd10\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\reddy\.gradle\caches\transforms-3\4456312d12ef13ea04213c336f6acc84\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
 MERGED from [:react-native-vector-icons] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.2] C:\Users\reddy\.gradle\caches\transforms-3\4e229b798ea401dd70d93b70ab758b74\transformed\jetified-react-android-0.71.2-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\reddy\.gradle\caches\transforms-3\84f0fc81defe5e6700f5f727f4bb4862\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.2] C:\Users\reddy\.gradle\caches\transforms-3\4042a6e940ffa9824a6e100716b949e5\transformed\jetified-hermes-android-0.71.2-debug\AndroidManifest.xml:2:1-9:12
@@ -166,6 +167,8 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\reddy\.gradle\caches
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\reddy\.gradle\caches\transforms-3\4456312d12ef13ea04213c336f6acc84\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-vector-icons] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Trevista\Trevista_Project\Trevista_Projects\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.2] C:\Users\reddy\.gradle\caches\transforms-3\4e229b798ea401dd70d93b70ab758b74\transformed\jetified-react-android-0.71.2-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.2] C:\Users\reddy\.gradle\caches\transforms-3\4e229b798ea401dd70d93b70ab758b74\transformed\jetified-react-android-0.71.2-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\reddy\.gradle\caches\transforms-3\84f0fc81defe5e6700f5f727f4bb4862\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44

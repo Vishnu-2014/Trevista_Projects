@@ -7,10 +7,11 @@ import Onboarding_two from './src/components/Onboarding_two';
 import Onboarding_three from './src/components/Onboarding_three';
 import LoginEmail from './src/components/LoginEmail';
 import DoctorLoginEmail from './src/components/Doctor/DoctorLoginEmail';
+import PatientRegister from './src/components/Patient/PatientRegister';
 
 const App = () => {
   return (
-    <DoctorLoginEmail/>
+    <PatientRegister />
   );
 }
 
